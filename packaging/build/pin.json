@@ -1,0 +1,17 @@
+{
+  "upstream_repository": "https://github.com/plumber-cd/terraform-backend-git.git",
+  "upstream_commit": "d80068bf358155462a1f77fb55c454164fd4b3ad",
+  "compiler": {
+    "filename": "go1.27.2.linux-amd64.tar.gz",
+    "os": "linux",
+    "arch": "amd64",
+    "version": "go1.27.2",
+    "sha256": "ecbadb99091a3f46e31f5f934b068b1864eafa7995211b39eaddf76996045fe5",
+    "size": 70590635,
+    "kind": "archive"
+  },
+  "binary_sha256": "95f0d6e1172b5a79380aad506e8fa2475d48113174c8d1e1987ffbbb049e7ad2",
+  "candidate_version": "0.1.12-deps.20261018.1",
+  "platform": "linux-amd64",
+  "published_release_url": null
+}
